@@ -6,28 +6,42 @@ namespace GuessGame
     {
         static void Main(string[] args)
         {
-            int guess;
+            int guess= 1;
             int answer = 42;
 
             Console.Write("Enter a number between 1 and 100 to guess the answer: ");
 
-            guess = Convert.ToInt32(Console.ReadLine());
+            try
+            {
+                guess = Convert.ToInt32(Console.ReadLine());
+            }
+            catch
+            {
+                Console.Write("Please enter a number; ");
+            }
 
             while (guess != answer)
             {
-
-                if (guess < 1 || guess > 100)
+                try
                 {
-                    Console.WriteLine("Please enter a number between 1 and 100");
+                    if (guess < 1 || guess > 100)
+                    {
+                        Console.WriteLine("Please enter a number between 1 and 100");
+                    }
+                    else
+                    {
+                        Console.WriteLine("Incorrect \n");
+                    }
+
+                    Console.Write("Enter a number between 1 and 100 to guess the answer: ");
+
+                    guess = Convert.ToInt32(Console.ReadLine());
                 }
-                else
+                catch
                 {
-                    Console.WriteLine("Incorrect");
+                    Console.Write("Please enter a number; ");
                 }
 
-                Console.Write("Enter a number between 1 and 100 to guess the answer: ");
-
-                guess = Convert.ToInt32(Console.ReadLine());
 
                 if (guess == answer)
                 {

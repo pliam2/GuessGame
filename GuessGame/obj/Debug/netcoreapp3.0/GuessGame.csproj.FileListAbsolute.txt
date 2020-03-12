@@ -9,3 +9,14 @@ C:\Users\Liam\source\repos\GuessGame\GuessGame\obj\Debug\netcoreapp3.0\GuessGame
 C:\Users\Liam\source\repos\GuessGame\GuessGame\obj\Debug\netcoreapp3.0\GuessGame.AssemblyInfo.cs
 C:\Users\Liam\source\repos\GuessGame\GuessGame\obj\Debug\netcoreapp3.0\GuessGame.dll
 C:\Users\Liam\source\repos\GuessGame\GuessGame\obj\Debug\netcoreapp3.0\GuessGame.pdb
+C:\Users\Liam\Desktop\GuessGame-master\GuessGame\bin\Debug\netcoreapp3.0\GuessGame.exe
+C:\Users\Liam\Desktop\GuessGame-master\GuessGame\bin\Debug\netcoreapp3.0\GuessGame.deps.json
+C:\Users\Liam\Desktop\GuessGame-master\GuessGame\bin\Debug\netcoreapp3.0\GuessGame.runtimeconfig.json
+C:\Users\Liam\Desktop\GuessGame-master\GuessGame\bin\Debug\netcoreapp3.0\GuessGame.runtimeconfig.dev.json
+C:\Users\Liam\Desktop\GuessGame-master\GuessGame\bin\Debug\netcoreapp3.0\GuessGame.dll
+C:\Users\Liam\Desktop\GuessGame-master\GuessGame\bin\Debug\netcoreapp3.0\GuessGame.pdb
+C:\Users\Liam\Desktop\GuessGame-master\GuessGame\obj\Debug\netcoreapp3.0\GuessGame.csprojAssemblyReference.cache
+C:\Users\Liam\Desktop\GuessGame-master\GuessGame\obj\Debug\netcoreapp3.0\GuessGame.AssemblyInfoInputs.cache
+C:\Users\Liam\Desktop\GuessGame-master\GuessGame\obj\Debug\netcoreapp3.0\GuessGame.AssemblyInfo.cs
+C:\Users\Liam\Desktop\GuessGame-master\GuessGame\obj\Debug\netcoreapp3.0\GuessGame.dll
+C:\Users\Liam\Desktop\GuessGame-master\GuessGame\obj\Debug\netcoreapp3.0\GuessGame.pdb
